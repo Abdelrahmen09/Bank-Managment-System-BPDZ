@@ -1,4 +1,13 @@
-This project is a secure digital banking platform built with Spring Boot, designed to manage customer accounts, balances, and internal money transfers. The system follows ISO 20022 standards for financial messaging, ensuring structured, interoperable, and future-proof payment workflows.
+This project proposes the design of a national interbank payment platform named BPDZ, inspired by the 
+European SEPA and TARGET2 systems. The initiative aims to modernize financial transactions in Algeria, reduce 
+reliance on cash, and energize the domestic economic market. Although Algeria has existing RTGS infrastructures, 
+they remain insufficient for meeting the demands of a modern, integrated economy. 
+The project seeks to position banks at the core of a structured, secure, and interoperable financial system. 
+By adopting the ISO 20022 standard, the platform will align with international norms, making BPDZ a potential 
+candidate for regional and global compatibility. 
+Furthermore, the solution envisions the creation of a broader Algerian Payment Area (APA), a regional space 
+inspired by SEPA but tailored for the Maghreb and African contexts. This report emphasizes the technological, 
+economic, and geopolitical implications of the platform, offering a strategic vision for regional financial integration
 
 The platform includes:
 
